@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/fjose90)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&&logo=discord&logoColor=white)](https://discord.com/channels/@fjose90/)
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=flat-square&&logo=telegram&logoColor=2CA5E0)](https://t.me/fjose90)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=flat-square&&logo=gmail&logoColor=red)](mailto:fernando.tecnicoinfo7@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=flat-square&&logo=gmail&logoColor=red)](mailto:contato@fernandojose.dev)
 
 Sou um desenvolvedor Full Stack em aprendizado.
 
